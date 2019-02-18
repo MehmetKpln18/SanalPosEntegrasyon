@@ -100,7 +100,5 @@ $str->Console("test");
 ````
 
 ## İletişim
-
-[GitHub! Ufuk Özarslan](http://www.github.com/ufukOzarslan)
-[E-mail:phpyazilim@outlook.com](https://profile.live.com/cid-de12ddb725bb7690/Messenger)
+[E-mail:turkmvc@gmail.com]
 
